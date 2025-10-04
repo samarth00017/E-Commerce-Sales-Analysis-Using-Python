@@ -1,1 +1,2 @@
 # E-Commerce-Sales-Analysis-Using-Python
+Analyzing total revenue growth over time. Identifying best-selling products and seasonal sales trends. Calculating the average order value to understand spending behavior. Identifying top-performing locations based on sales volume. Analyzing order cancellation trends and customer retention. Differentiating B2B vs. B2C customer behavior for targeted marketing.Addressing shipping delays by calculating average shipping times. Comparing orders fulfilled by Amazon vs. Merchant fulfillment. Improving order processing for faster deliveries.
